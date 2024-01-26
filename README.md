@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Neven</h1>
-<h3 align="center">A software engineering student in Zagreb, exploring web development, system design, and combat robotics. Because one hobby is never enough!"</h3>
+<h3 align="center">A software engineering student in Zagreb, exploring web development, system design, and combat robotics. Because one hobby is never enough!</h3>
 
 - 🔭 I’m currently working on [ErasmusConnect](https://erasmus-connect.vercel.app/)
 
