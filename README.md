@@ -7,13 +7,13 @@
 
 - 👯 I’m looking to collaborate on **Some sort of web dev tool**
 
-- 👨‍💻 All of my projects are available at [WIP](WIP)
+<!---- 👨‍💻 All of my projects are available at [WIP](WIP)--->
 
 - 💬 Ask me about **Anything tech and non tech related.**
 
 - 📫 How to reach me **neven.lukic8@gmail.com**
-
-- 📄 Know about my experiences [WIP](WIP)
+<!--
+- 📄 Know about my experiences [WIP](WIP)-->
 
 - ⚡ Fun fact **I really like orange.**
 
