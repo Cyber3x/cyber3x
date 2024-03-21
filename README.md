@@ -1,21 +1,17 @@
 <h1 align="center">Hi 👋, I'm Neven</h1>
 <h3 align="center">A software engineering student in Zagreb, exploring web development, system design, and combat robotics. Because one hobby is never enough!</h3>
 
-- 🔭 I’m currently working on [ErasmusConnect](https://erasmus-connect.vercel.app/)
+<!--- 🔭 I’m currently working on [ErasmusConnect](https://erasmus-connect.vercel.app/) --->
 
 - 🌱 I’m currently learning **Spring Boot and Supabase**
 
-- 👯 I’m looking to collaborate on **Some sort of web dev tool**
+<!---- 👯 I’m looking to collaborate on **Some sort of web dev tool** --->
 
 <!---- 👨‍💻 All of my projects are available at [WIP](WIP)--->
-
-- 💬 Ask me about **Anything tech and non tech related**
 
 - 📫 How to reach me **neven.lukic8@gmail.com**
 <!--
 - 📄 Know about my experiences [WIP](WIP)-->
-
-- ⚡ Fun fact **I really like orange**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
