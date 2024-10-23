@@ -3,7 +3,7 @@
 
 <!--- 🔭 I’m currently working on [ErasmusConnect](https://erasmus-connect.vercel.app/) --->
 
-- 🌱 I’m currently learning **Spring Boot and Supabase**
+- 🌱 I’m currently learning **Reinforcement Learning and how to lead a student organization**
 
 <!---- 👯 I’m looking to collaborate on **Some sort of web dev tool** --->
 
