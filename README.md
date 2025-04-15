@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Neven</h1>
 <h3 align="center">A software engineering student in Zagreb, exploring web development, system design, and combat robotics. Because one hobby is never enough!</h3>
 
-<!--- 🔭 I’m currently working on [ErasmusConnect](https://erasmus-connect.vercel.app/) --->
-
-- 🌱 I’m currently learning **Reinforcement Learning and how to lead a student organization**
+- 🌱 I’m currently learning **Reinforcement Learning and Rust**
 
 <!---- 👯 I’m looking to collaborate on **Some sort of web dev tool** --->
 
