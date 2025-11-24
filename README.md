@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Neven</h1>
 <h3 align="center">A software engineering student in Zagreb, exploring web development, system design, and combat robotics. Because one hobby is never enough!</h3>
 
-- 🌱 I’m currently learning **Reinforcement Learning and Rust**
+- 🌱 I’m currently exploring **AT Protocol and learning Rust**
 
 <!---- 👯 I’m looking to collaborate on **Some sort of web dev tool** --->
 
@@ -19,4 +19,10 @@
 <ul>
     <li>Java</li>
     <li>Rust</li>
+    <li>Python</li>
+    <li>Linux</li>
+    <li>Git</li>
+    <li>Docker</li>
+    <li>React</li>
+    <li>TailwindCSS</li>
 </ul>
